@@ -1,6 +1,6 @@
 {
   "name": "@openpassport/qrcode",
-  "version": "0.0.15",
+  "version": "0.0.12",
   "main": "dist/sdk/qrcode/index.js",
   "types": "dist/sdk/qrcode/index.d.ts",
   "license": "MIT",
